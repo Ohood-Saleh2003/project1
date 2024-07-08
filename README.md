@@ -6,3 +6,5 @@
 ## The 3D drawing on the Tinkercad program shows the direction of the servo motor:
 ![صورة واتساب بتاريخ 1446-01-02 في 18 45 03_c65f0557](https://github.com/Ohood-Saleh2003/project1/assets/173670281/32bc9302-a195-4d05-bbc7-a23b103fe5c8)
 
+## Tinkercad link to design a 3D robot :
+https://www.tinkercad.com/things/hfsXrMdjLlO-funky-vihelmo-esboo/edit
